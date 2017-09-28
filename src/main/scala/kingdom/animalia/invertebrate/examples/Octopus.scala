@@ -1,5 +1,7 @@
 package kingdom.animalia.invertebrate.examples
 
-class Octopuss {
+import kingdom.animalia.invertebrate.Invertebrate
+
+class Octopus extends Invertebrate {
 
 }

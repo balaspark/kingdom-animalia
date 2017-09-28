@@ -1,5 +1,7 @@
 package kingdom.animalia.vertebrate.mammal.primate
 
-trait Primate {
+import kingdom.animalia.vertebrate.mammal.Mammal
+
+trait Primate extends Mammal {
 
 }

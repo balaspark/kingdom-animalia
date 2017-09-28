@@ -1,5 +1,7 @@
 package kingdom.animalia.vertebrate.mammal.examples
 
-class Dog {
+import kingdom.animalia.vertebrate.mammal.Mammal
+
+class Dog extends Mammal {
 
 }

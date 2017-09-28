@@ -1,5 +1,7 @@
 package kingdom.animalia.invertebrate.examples
 
-class JellyFish {
+import kingdom.animalia.invertebrate.Invertebrate
+
+class JellyFish extends Invertebrate {
 
 }

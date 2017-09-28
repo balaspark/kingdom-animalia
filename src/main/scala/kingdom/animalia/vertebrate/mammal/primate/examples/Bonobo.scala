@@ -1,5 +1,7 @@
 package kingdom.animalia.vertebrate.mammal.primate.examples
 
-class Bonobo {
+import kingdom.animalia.vertebrate.mammal.primate.Primate
+
+class Bonobo extends Primate {
 
 }

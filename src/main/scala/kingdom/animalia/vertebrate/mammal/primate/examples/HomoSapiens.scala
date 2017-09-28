@@ -1,5 +1,7 @@
 package kingdom.animalia.vertebrate.mammal.primate.examples
 
-class HomoSapiens {
+import kingdom.animalia.vertebrate.mammal.primate.Primate
+
+class HomoSapiens extends Primate {
 
 }

@@ -1,5 +1,7 @@
 package kingdom.animalia.invertebrate
 
-trait Invertebrate {
+import kingdom.animalia.Animal
+
+trait Invertebrate extends Animal {
 
 }

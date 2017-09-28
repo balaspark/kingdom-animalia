@@ -1,5 +1,7 @@
 package kingdom.animalia.vertebrate.mammal.examples
 
-class Rhinoceros {
+import kingdom.animalia.vertebrate.mammal.Mammal
+
+class Rhinoceros extends Mammal {
 
 }

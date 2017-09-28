@@ -1,5 +1,7 @@
 package kingdom.animalia.vertebrate.examples
 
-class Raven {
+import kingdom.animalia.vertebrate.Vertebrate
+
+class Raven extends Vertebrate {
 
 }

@@ -1,5 +1,7 @@
 package kingdom.animalia.vertebrate.reptile.examples
 
-class Crocodile {
+import kingdom.animalia.vertebrate.reptile.Reptile
+
+class Crocodile extends Reptile {
 
 }

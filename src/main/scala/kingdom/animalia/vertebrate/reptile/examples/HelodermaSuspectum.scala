@@ -1,5 +1,7 @@
 package kingdom.animalia.vertebrate.reptile.examples
 
-class HelodermaSuspectum {
+import kingdom.animalia.vertebrate.reptile.Reptile
+
+class HelodermaSuspectum extends Reptile {
 
 }

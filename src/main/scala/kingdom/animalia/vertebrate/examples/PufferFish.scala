@@ -1,5 +1,7 @@
 package kingdom.animalia.vertebrate.examples
 
-class PufferFish {
+import kingdom.animalia.vertebrate.Vertebrate
+
+class PufferFish extends Vertebrate {
 
 }
