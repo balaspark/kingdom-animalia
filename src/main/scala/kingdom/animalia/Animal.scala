@@ -1,5 +1,3 @@
 package kingdom.animalia
 
-trait Animal {
-
-}
+class Animal
